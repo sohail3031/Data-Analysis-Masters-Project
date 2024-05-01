@@ -6,6 +6,13 @@
 
 Our project is a simple Content-Based Movie Recommendation System. We utilize movie content to recommend similar movies based on the selected one.
 
+## About Files
+
+Create the following folders
+
+1. files: Folder to store ".pkl" files.
+2. dataset: Folder to store dataset. Dataset link is provided below, download and extract in this folder.
+
 ## About the Dataset
 
 We use two different datasets for recommending movies:
